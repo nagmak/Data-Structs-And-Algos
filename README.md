@@ -1,6 +1,6 @@
 # Data-Structs-And-Algos
 
-* Arrays & Strings
+* [Arrays & Strings](https://github.com/nagmak/Data-Structs-And-Algos/tree/master/Arrays-Strings)
 	* Hash Tables
 	* ArrayList & Resizeable Arrays
 	* StringBuilder
@@ -63,7 +63,7 @@
 	* Topological Sort
 	* Counting sort
 	* Shell sort
-	* BFS 
+	* BFS
 	* DFS
 	* Priority Queue
 
