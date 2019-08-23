@@ -5,7 +5,7 @@
 	* ArrayList & Resizeable Arrays
 	* StringBuilder
 
-* LinkedLists
+* [LinkedLists](https://github.com/nagmak/Data-Structs-And-Algos/tree/master/LinkedLists)
 	* Create a LL
 	* Delete a node from Singly-Linked List
 	* “Runner” technique
