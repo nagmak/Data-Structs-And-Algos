@@ -18,6 +18,9 @@ public class LinkedList {
         System.out.println(testLinkedList.getSize());
         System.out.println(testLinkedList.findNode(4).getNodeValue());
         System.out.println(testLinkedList.findNode(32));
+        testLinkedList.remove(32);
+        System.out.println(testLinkedList.getSize());
+        System.out.println(testLinkedList.findNode(32));
     }
 
     public void setSize(int s){
